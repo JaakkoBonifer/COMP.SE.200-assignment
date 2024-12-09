@@ -1,3 +1,7 @@
+Software testing assignment :)
+
+[![Coverage Status](https://coveralls.io/repos/github/JaakkoBonifer/COMP.SE.200-assignment/badge.svg?branch=main)](https://coveralls.io/github/JaakkoBonifer/COMP.SE.200-assignment?branch=main)
+
 # Student template
 
 ## Purpose of this repository
